@@ -19,6 +19,12 @@ MIT
 @angular/service-worker
 MIT
 
+@ionic-native/core
+MIT
+
+@ionic-native/social-sharing
+MIT
+
 @ionic/angular
 MIT
 
