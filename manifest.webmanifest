@@ -1,7 +1,7 @@
 {
-  "name": "My Numerology",
-  "short_name": "My Numerology",
-  "theme_color": "#dbc8a8",
+  "name": "My Numerologysign",
+  "short_name": "My Numerologysign",
+  "theme_color": "#0511f2",
   "background_color": "#000000",
   "display": "standalone",
   "scope": "./",
