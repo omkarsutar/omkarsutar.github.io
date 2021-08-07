@@ -2,7 +2,7 @@
   "name": "My NumerologySign",
   "short_name": "My NumerologySign",
   "theme_color": "#0511f2",
-  "background_color": "#000000",
+  "background_color": "#0511f2",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
