@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1629544039914,
+  "timestamp": 1629719991829,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/11.003d722a11a6d10afaa1.js",
+        "/11.e0411ebfcf0eb1dd3593.js",
         "/12.ab041ac9c95cee02c8c6.js",
         "/13.aaf3135e1d5f54458f2f.js",
         "/14.66e51e7380763a9fbc43.js",
@@ -86,16 +86,17 @@
         "/82.c171542bd82c1d6fe848.js",
         "/common.d86c2b12fe7bc6338f66.js",
         "/index.html",
-        "/main.76c0080b7ba65c0081e0.js",
+        "/main.de497c4c8481b38f6ad3.js",
         "/manifest.webmanifest",
         "/polyfills-core-js.926b2b327e549d9db414.js",
         "/polyfills-css-shim.359ce37e09f907eb011b.js",
         "/polyfills-dom.bf6c5ee357b1ca4890e9.js",
         "/polyfills.583ce99f420b3934860c.js",
-        "/runtime.856665e4cc8e938f5444.js",
+        "/runtime.4baec48aacbf585cfa28.js",
+        "/scripts.686e781cff0aa251a3ac.js",
         "/stencil-polyfills-css-shim.faf944c756b93843cdc9.js",
         "/stencil-polyfills-dom.c43443e96f14425c2087.js",
-        "/styles.c91896b9f1071880fd5c.css"
+        "/styles.abacc737aea36213a55d.css"
       ],
       "patterns": []
     },
@@ -118,6 +119,13 @@
         "/assets/icons/icon-96x96.png",
         "/assets/images/logo.png",
         "/assets/images/logonew.png",
+        "/assets/images/testimonials/testimonial1.png",
+        "/assets/images/testimonials/testimonial2.png",
+        "/assets/images/testimonials/testimonial3.png",
+        "/assets/images/testimonials/testimonial4.png",
+        "/assets/images/testimonials/testimonial5.png",
+        "/assets/images/testimonials/testimonial6.png",
+        "/assets/images/testimonials/testimonial7.png",
         "/assets/shapes.svg",
         "/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
         "/fontawesome-webfont.20fd1704ea223900efa9.woff2",
@@ -130,7 +138,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/11.003d722a11a6d10afaa1.js": "122cea5f3e1404a3eb8fe312cf22daea8812b5e9",
+    "/11.e0411ebfcf0eb1dd3593.js": "7e3b0692d99230603509510a953c4973429e5190",
     "/12.ab041ac9c95cee02c8c6.js": "a72ee4868b5bfc5862c1f532ae8cd3e162fecdde",
     "/13.aaf3135e1d5f54458f2f.js": "b1ea3010d3916ad58326551cc18a186b0bedab80",
     "/14.66e51e7380763a9fbc43.js": "33a88d96261e52414e2dce86fd06f4e498cc2be8",
@@ -214,6 +222,13 @@
     "/assets/icons/icon-96x96.png": "6d287ea17a84fec2175c41c9f22a412f7dfa9528",
     "/assets/images/logo.png": "c1804213e404bc9df6c6e7dbe2cf52926ae2c883",
     "/assets/images/logonew.png": "f56b5154dc345d434d8330d2e9b2c15ae5f4492f",
+    "/assets/images/testimonials/testimonial1.png": "4beca08f1d50dc46ab83827a1517f69a185a7c33",
+    "/assets/images/testimonials/testimonial2.png": "7b5254c4a9bf582ecc919854e9882aaef4e94c2f",
+    "/assets/images/testimonials/testimonial3.png": "8a729c602a533572d0e83fb7d8cf9b95d02e8d2e",
+    "/assets/images/testimonials/testimonial4.png": "6c384b4a20cffb75118c4d6da54176834afe7695",
+    "/assets/images/testimonials/testimonial5.png": "b44fc98a3e9b8024d2af9eb02d6f7026908ad001",
+    "/assets/images/testimonials/testimonial6.png": "8d5b98b5341eb448873c9fb9f180ca66ee92899f",
+    "/assets/images/testimonials/testimonial7.png": "e84018ebdea6cceeef0acb35902270234c0c2531",
     "/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/common.d86c2b12fe7bc6338f66.js": "54805d427b3b5d10398013c718dc573c09e71ece",
     "/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
@@ -221,17 +236,18 @@
     "/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
     "/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
     "/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "/index.html": "c68aad3fcec90e1a44f5dc0a364a29f01167eb63",
-    "/main.76c0080b7ba65c0081e0.js": "af410fd99015f061dca3d3eae6afdde93abd6410",
+    "/index.html": "9ad03fe8a5de62d5736d1e048034dce5f2eca962",
+    "/main.de497c4c8481b38f6ad3.js": "aba91125bd4a0dfc72e0a259bb13a3ba74226dc6",
     "/manifest.webmanifest": "a2cd0bd10426329b9821312bae2dd8137505dc7b",
     "/polyfills-core-js.926b2b327e549d9db414.js": "f71279ef311f3c1cecc661b8aabe632959a282f8",
     "/polyfills-css-shim.359ce37e09f907eb011b.js": "3f4dd6685f2d8a7a5f6fe2d3fa9e9320d460b112",
     "/polyfills-dom.bf6c5ee357b1ca4890e9.js": "3d12740300342a24e404779d9c0a06c58f44ec7c",
     "/polyfills.583ce99f420b3934860c.js": "cc853f64073e19a637806fc9433d22238803538f",
-    "/runtime.856665e4cc8e938f5444.js": "ea132ee059195a7c920c58aa2db9563ddcf33aa1",
+    "/runtime.4baec48aacbf585cfa28.js": "16d0cbb334d3825bd9bc472b656b9cd9f147445b",
+    "/scripts.686e781cff0aa251a3ac.js": "de7b92e6973389e00fc9b4fd61acf656a7b47bc8",
     "/stencil-polyfills-css-shim.faf944c756b93843cdc9.js": "3f5dee28b47d7e401f842204770e11e1c7243ec1",
     "/stencil-polyfills-dom.c43443e96f14425c2087.js": "754c9667a7c869d9424eea255fa8981e187c13e8",
-    "/styles.c91896b9f1071880fd5c.css": "dd3980e5f94efcd98d75e70eb580575134560dad"
+    "/styles.abacc737aea36213a55d.css": "19d1dc319558fb56db037f43514b1e2998900427"
   },
   "navigationUrls": [
     {
